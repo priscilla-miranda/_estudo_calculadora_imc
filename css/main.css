@@ -29,4 +29,16 @@ cursor: pointer;
 button:hover{
 background-color: steelblue;
 }
-        
+
+.final-step,
+.second-step{
+    display: none;
+
+}
+
+input{
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+}
